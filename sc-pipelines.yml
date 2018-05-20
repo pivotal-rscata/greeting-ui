@@ -6,7 +6,7 @@ test:
       plan: standard
       params:
         git:
-          uri: https://github.com/ciberkleid/app-config
+          uri: https://github.com/pivotal-rscata/app-config
       useExisting: true
     - name: cloud-bus
       type: broker
